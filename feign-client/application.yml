@@ -1,0 +1,6 @@
+jboost:
+  test: 测试
+
+app: feign-client
+
+profile: default
