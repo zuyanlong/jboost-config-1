@@ -1,6 +1,1 @@
-jboost:
-  test: 测试
-
-app: hello-service
-
-profile: default
+app: hello-service-default

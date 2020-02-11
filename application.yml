@@ -1,6 +1,2 @@
-jboost:
-  test: 测试
+app: app-default
 
-app: default
-
-profile: default
